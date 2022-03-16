@@ -1,3 +1,75 @@
+body {
+  font-family: sans-serif;
+  font-size: 110%;
+}
+
+header {
+  font-family: sans-serif;
+  background-color: #E0BBE4;
+  color: black;
+  border: #2B2741;
+  border-radius: 5rem;
+}
+
+#heading {
+  font-family: sans-serif;
+  background-color: #E0BBE4;
+  color: black;
+  align-content: center;
+  text-align: center;
+  border-radius: 5rem;
+}
+
+#headshot {
+  width: 20%;
+  height: 200px;
+  border: #BAA495 solid 10px;
+  border-radius: 5rem;
+  margin: 10px;
+}
+
+#sidebar {
+  width: 20%;
+  border-radius: 5px;
+  padding: 1rem;
+  background-color: #E0BBE4;
+  color: black;
+  margin: 1px;
+  text-align: left;
+}
+
+#main {
+  display: flex;
+  margin-left: 1%;
+  flex: 1;
+}
+
+.icons {
+  width: 3rem;
+  height: auto;
+  margin: 5%;
+  align-content: center;
+}
+
+#footer {
+  background-color: #E0BBE4;
+  text-align: center;
+  color: black;
+  border-radius: 10px;
+}
+
+article {
+  margin-left: 2%;
+  color: black;
+  text-align: left;
+}
+
+.navigation menu {
+  color: black;
+  margin: 1rem;
+  border-radius: 10px;
+}
+
 @keyframes shake {
     0% {
         transform: translate(1px, 1px) rotate(0deg);
@@ -16,7 +88,7 @@ img:hover {
 }
 
 body {
-    background-image: url("https://static.vecteezy.com/system/resources/previews/004/334/225/original/galaxy-fantasy-background-with-pastel-colors-free-vector.jpg");
+    background-image: url("https://nb6gx25bg013q32uq3y8z2h7-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/Development-Frameworks-846x697.jpg");
 }
 
 img {
